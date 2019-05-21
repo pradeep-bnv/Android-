@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CP Client</string>
+    <string name="btn_msg"> Multiply </string>
+    <string name="name_hint"> Enter name </string>
+    <string name="num1_hint"> Enter first number </string>
+    <string name="num2_hint"> Enter second number </string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CP Server</string>
+    <string name="msg">CP Server for AIDL</string>
+</resources>
